@@ -2,6 +2,9 @@
 
 Small script to automatically disable/enable WiFi on OSX when a connected Thunderbolt Ethernet connection is found.
 
+![WiFi off](images/notification-off.png "Logo Title Text 1")
+![WiFi on](images/notification-on.png "Logo Title Text 1")
+
 ## Install
 
 Run the following commands from your terminal:
