@@ -9,7 +9,6 @@ Run the following commands from your terminal:
 ```
 mkdir -p ~/Library/Scripts/
 git clone https://github.com/manuelvanrijn/ToggleAirport.git ~/Library/Scripts/ToggleAirport
-chmod 755 ~/Library/Scripts/ToggleAirport/script.sh
 cp ~/Library/Scripts/ToggleAirport/nl.manuelles.toggleairport.plist ~/Library/LaunchAgents/nl.manuelles.toggleairport.plist
 launchctl load ~/Library/LaunchAgents/nl.manuelles.toggleairport.plist
 ```
